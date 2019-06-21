@@ -1,4 +1,4 @@
-# Slb Datasets
+# Schlumberger Datasets Project
 
 To view the front end, go to:
   https://github.com/tGoh98/tGoh98.github.io
